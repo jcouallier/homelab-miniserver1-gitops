@@ -1,2 +1,5 @@
 ansible/
 docker/stacks/portainer/
+.env
+*.env
+stack.env
